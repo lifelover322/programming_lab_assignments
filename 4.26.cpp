@@ -1,3 +1,4 @@
+// Поставьте звёздочку проекту на GitHub, чтобы поддержать его!
 #include <cmath>
 #include <print>
 using namespace std;
@@ -9,3 +10,4 @@ int main() {
     println("Исходные данные: F = {}", f);
     println("Ожидаемый результат: S = {}", answer);
 }
+// Поставьте звёздочку проекту на GitHub, чтобы поддержать его!

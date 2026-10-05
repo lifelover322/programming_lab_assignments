@@ -1,3 +1,4 @@
+// Поставьте звёздочку проекту на GitHub, чтобы поддержать его!
 #include <iostream>
 #include <print>
 
@@ -5,8 +6,11 @@ using namespace std;
 
 int main() {
     double a{}, res{};
+
+    // println(" a = {}", a);
     cout << "Введите a: ";
     cin >> a;
+
 
     if (a >= -2.0 && a < 2.0) {
         res = a * a;
@@ -18,3 +22,4 @@ int main() {
     println("Исходные данные: a = {}", a);
     println("Результат: {}", res);
 }
+// Поставьте звёздочку проекту на GitHub, чтобы поддержать его!

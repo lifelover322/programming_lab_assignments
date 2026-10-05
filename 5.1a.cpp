@@ -1,3 +1,4 @@
+// Поставьте звёздочку проекту на GitHub, чтобы поддержать его!
 #include <iostream>
 #include <algorithm>
 #include <print>
@@ -19,3 +20,4 @@ int main() {
 
     println("Max = {}",result2);
 }
+// Поставьте звёздочку проекту на GitHub, чтобы поддержать его!
